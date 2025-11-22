@@ -1,0 +1,22 @@
+# Dart/Flutter artifacts
+.dart_tool/
+.flutter-plugins
+.flutter-plugin-dependencies
+.metadata
+android/build/
+ios/Flutter/App.framework/
+ios/Flutter/App.xcarchive/
+build/
+**/.*.swp
+
+# IntelliJ project files
+.idea/
+*.iml
+*.iws
+
+# OS generated files #
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
